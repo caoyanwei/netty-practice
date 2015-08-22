@@ -1,0 +1,10 @@
+/.settings
+/.project
+*.iml
+*/*.iml
+.idea/
+*.orig
+hub.jsp
+.DS_Store
+**/target
+/js/webRoot/logs/**
